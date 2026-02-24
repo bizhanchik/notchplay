@@ -8,7 +8,7 @@
 
 Hover. Play. Go back to pretending you're paying attention.
 
-[![Download](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/YOUR_USERNAME/notchplay/releases/latest)
+[![Download](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/bizhanchik/notchplay/releases/latest)
 ![macOS](https://img.shields.io/badge/macOS-14%2B-blue?style=for-the-badge)
 ![Swift](https://img.shields.io/badge/Built%20with-SwiftUI-orange?style=for-the-badge)
 
@@ -118,7 +118,7 @@ Six games, each built from scratch with smooth animations and native SwiftUI phy
 
 ## Download
 
-Head to the [**Releases**](https://github.com/YOUR_USERNAME/notchplay/releases) tab, grab the latest `.dmg`, drag NotchPlay to your Applications folder, and launch it.
+Head to the [**Releases**](https://github.com/bizhanchik/notchplay/releases) tab, grab the latest `.dmg`, drag NotchPlay to your Applications folder, and launch it.
 
 That's it. Hover your cursor over the notch and start playing.
 
